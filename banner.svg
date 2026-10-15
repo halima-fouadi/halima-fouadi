@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <rect width="1200" height="320" rx="24" fill="#0B1426"/>
+  <circle cx="1080" cy="40" r="190" fill="#112D40"/>
+  <circle cx="100" cy="320" r="130" fill="#102638"/>
+  <g fill="none" stroke="#2DD4BF" stroke-width="2" opacity="0.22">
+    <ellipse cx="1030" cy="160" rx="105" ry="65"/>
+    <ellipse cx="1030" cy="160" rx="65" ry="105"/>
+    <path d="M925 160h210M1030 55v210"/>
+  </g>
+  <path d="M910 165h42l14-25 18 49 21-69 22 45h113" fill="none" stroke="#2DD4BF" stroke-width="4" stroke-linejoin="round"/>
+  <text x="600" y="82" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="5" fill="#2DD4BF">GENERATIVE AI · MEDICAL IMAGING</text>
+  <text x="600" y="155" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" fill="#F1F5F9">Halima Fouadi</text>
+  <text x="600" y="202" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#B8C9DC">Image synthesis · Segmentation · Expert evaluation</text>
+  <rect x="480" y="244" width="240" height="3" rx="1.5" fill="#2DD4BF"/>
+</svg>
