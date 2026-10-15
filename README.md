@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" width="100%" alt="Halima Fouadi - Generative AI and Medical Imaging" /></p>
+<p align="center"><img src="banner.svg" width="100%" alt="Halima Fouadi - Generative AI and Medical Imaging" /></p>
 
 <h1 align="center">Hi, I'm Halima Fouadi 👋</h1>
 
@@ -37,7 +37,7 @@ My work focuses on artificial intelligence for medical applications, combining d
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/halima-fouadi/CardiacSegDiffusion"><img src="assets/cardiac-pipeline.svg" width="100%" alt="LoRA label generation, ControlNet image synthesis, SegFormer segmentation" /></a>
+<a href="https://github.com/halima-fouadi/CardiacSegDiffusion"><img src="cardiac-pipeline.svg" width="100%" alt="LoRA label generation, ControlNet image synthesis, SegFormer segmentation" /></a>
 <h3>CardiacSegDiffusion</h3>
 <p>Controllable diffusion pipelines supporting transformer-based cardiac MRI segmentation.</p>
 <p><strong>Methods:</strong> Stable Diffusion v1.5, LoRA, ControlNet, SegFormer.</p>
@@ -45,7 +45,7 @@ My work focuses on artificial intelligence for medical applications, combining d
 <a href="https://github.com/halima-fouadi/CardiacSegDiffusion">Explore the project &rarr;</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/halima-fouadi/clinical-validation-us"><img src="assets/ultrasound-pipeline.svg" width="100%" alt="Synthetic ultrasound cases, expert scoring, CSV and Excel export" /></a>
+<a href="https://github.com/halima-fouadi/clinical-validation-us"><img src="ultrasound-pipeline.svg" width="100%" alt="Synthetic ultrasound cases, expert scoring, CSV and Excel export" /></a>
 <h3>Synthetic Ultrasound Evaluation</h3>
 <p>A Streamlit application for radiologists to evaluate synthetic breast ultrasound images alongside masks and metadata.</p>
 <p><strong>Features:</strong> Eight scoring criteria, reviewer progress, CSV/Excel exports and Google Drive backup.</p>
