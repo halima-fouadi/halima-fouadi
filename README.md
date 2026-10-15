@@ -83,13 +83,6 @@ My work focuses on artificial intelligence for medical applications, combining d
 ![Image Segmentation](https://img.shields.io/badge/Image_Segmentation-0B1426?style=flat-square)
 ![Synthetic Image Evaluation](https://img.shields.io/badge/Synthetic_Image_Evaluation-0B1426?style=flat-square)
 
-## Generative imaging & segmentation
-
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-0B1426?style=flat-square)
-![LoRA](https://img.shields.io/badge/LoRA-0B1426?style=flat-square)
-![ControlNet](https://img.shields.io/badge/ControlNet-0B1426?style=flat-square)
-![SegFormer](https://img.shields.io/badge/SegFormer-0B1426?style=flat-square)
-
 ## Explore my work
 
 Browse the linked repositories for project scope, implementation availability, and technical details.
